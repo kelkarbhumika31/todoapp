@@ -1,4 +1,3 @@
-# todoapp
 # To-Do App
 
 A simple and user-friendly To-Do application built using Python to manage daily tasks efficiently.
